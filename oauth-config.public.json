@@ -1,0 +1,12 @@
+{
+  "client_id": "Jhh9JGUklo0eQepKwsDHfoTBW6wJU9Mc",
+  "redirect_uri": "https://petclub-cpu.github.io/festiva-oauth/callback/",
+  "authorization_endpoint": "https://auth.atlassian.com/authorize",
+  "token_endpoint": "https://auth.atlassian.com/oauth/token",
+  "scope": "read:board:trello write:board:trello offline_access",
+  "board_id": "6aa0d880b986e2300b34e383",
+  "target_list_id": "6aa0d88f55491b02d995e913",
+  "target_list_name": "📝 Preparar pedido",
+  "status": "configuration_only",
+  "warning": "No completar autorización desde GitHub Pages sin adaptar y verificar el cliente Android."
+}
